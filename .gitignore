@@ -4,7 +4,6 @@ __pycache__/
 *$py.class
 
 # model exception
-model.h5
 model1.h5
 
 # C extensions
